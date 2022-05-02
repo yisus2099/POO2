@@ -1,0 +1,13 @@
+EXCEPTIONS(JAVA) - NO ES TAN MALO
+   DESVIACION DEL FLUJO NORMAL DEL PROGRAMA
+ Son avisos 
+ Se pueden controlar
+ Tomar acciones
+ y potencialmente corregir
+ Detiene el programa si no se controla 
+
+
+
+ERRORS - APOCALIPSIS
+   SON GENERADOS POR EL SISTEMA OPERATIVO 
+   Son fatales
