@@ -1,0 +1,4 @@
+while(caracter != -1){
+sout((char)caracter);
+caracter = archivo.read();
+}
