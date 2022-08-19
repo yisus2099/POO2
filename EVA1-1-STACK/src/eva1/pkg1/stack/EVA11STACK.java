@@ -16,19 +16,25 @@ public class EVA11STACK {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-
+     sout("INICIA MAIN")
         
      A();
+        "RETOMA EJECUCIÒN MAIN"
+        "TERMINA MAIN"
     }
 
     public static void A() {
+        sysout("INICIA A")
         B();
+        "RETOMA A"
+            "TERMINA A"
     }
 
     public static void B() {
+        "INICIA B"
         int i = 1;
         double d = 10.0;
-        
+        "TERMINA B"
 
     }
 
